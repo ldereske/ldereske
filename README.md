@@ -2,11 +2,13 @@
 
 Hello! My name is Lukas Bell-Dereske. 
 
-## Contacts
+## Contact me
 
 - My website is [ecobelldere.com](https://ecobelldereske.com/) I am getting better about updating it.
-- My email is lukas.dereske@gmail.com
-- You can find me on [Research Gate](https://www.researchgate.net/profile/Lukas-Bell-Dereske)
+- My email is [lukas.dereske {at} gmail.com](mailto:lukas.dereske@gmail.com?subject=Found_on_GitHub)
+- You can find me on
+  - [Research Gate](https://www.researchgate.net/profile/Lukas-Bell-Dereske)
+  - [LinkedIn](linkedin.com/lbell-dereske)
 
 ## Interests
 
